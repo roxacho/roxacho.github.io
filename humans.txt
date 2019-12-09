@@ -1,0 +1,35 @@
+
+
+
+                            
+ title: Roxanne Iheanacho, future developer
+
+                            
+Site: roxanneiheanacho@gmail.com 
+
+                            
+Twitter: @roxacho1
+
+                            
+Location: Uppsala, Sweden
+
+							
+/* THANKS */
+
+							
+Name: Mats Loock and Johan Leiten for teaching me how to do this. 
+
+					                        
+/* SITE */
+
+                            
+Last update: 2019/12/08 
+
+                            
+Standards: HTML5, SCSS, Ruby, Javascript, MD, .CSS, YML, Ruby 
+
+                            
+Components: Jekyll, Disqus, Github.io
+
+                            
+Software: Visual Studio Code 
