@@ -36,8 +36,13 @@ I used disqus which was quite a smooth implementation. I first configured settin
 
 **What is Open Graph and how do you make use of it?**
 
+Open graph works with meta tags in order to enrich user experience. You have for example 
+og:title (title of object), og: type, which is type of object, og image, which is 
+then linked to an image url in order to provide an entity of the object and 
+og URL which is the canocical URL (an id for the entity). Canocical URL basically means 
+that this is the URL that is assigned to the open graph entity. 
 
-
+OG was first created by Facebook in 2010 and then later implemented by other social media sites for ease of embedding data, and sharing on social media sites. Twitter, for example, also started using OG. 
 
 <div id="disqus_thread"></div>
 <script>
