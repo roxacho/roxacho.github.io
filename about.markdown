@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a student at LNU. I want to learn how to program. Right now I am learning about Javascript. 
+I am wondering how different JS is from backend languages. Currently I am interested in new learning techniques that 
+will help me to better understand all languages. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can learn a little bit more about me here: http://roxanneiheanacho.000webhostapp.com/
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Thanks for stopping by. 
+
+By the way, here is a poster I made in my other class. We learned 
+photoshop, and I think it is pretty cool!
+![]assets/images/movieposter_uppgift4.png?raw=true
+
+
 
 
 [jekyll-organization]: https://github.com/jekyll
