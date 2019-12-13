@@ -20,7 +20,7 @@ will help me to better understand all languages. I think I would like to learn m
 
 I made a blog on a wordpress site I got from another course. Here you can see an Avi I made with Adobe Illustrator, and other things
 
-[My Wordpress Website ](http://roxanneiheanacho.000webhostapp.com/)
+[-----> Click Here For My Wordpress Website <----](http://roxanneiheanacho.000webhostapp.com/)
 
 
 Thanks for stopping by. 
@@ -37,6 +37,25 @@ Catchy song though! Nice to have something upbeat in such bad Swedish winter wea
 alt="Arizona Zervas" width="240" height="180" border="10" /></a>
 
 
+<div id="disqus_thread"></div>
+<script>
 
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://roxacho-github-io-2.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 [jekyll-organization]: https://github.com/jekyll
